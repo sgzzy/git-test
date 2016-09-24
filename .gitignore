@@ -1,1 +1,5 @@
+#Optional webstrom setting directory
 .idea/
+# Logs
+logs:
+*.log
